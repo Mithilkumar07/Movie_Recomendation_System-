@@ -1,0 +1,112 @@
+Movie,Genre,Language,Year of release,Rating,Number of Ratings
+Inception,Science Fiction|Action|Thriller,English,2010,9.8,150
+The Matrix,Science Fiction|Action|AI,English,1999,9.6,151
+Interstellar,Science Fiction|Drama,English,2014,9.4,152
+Avatar,Science Fiction|Fantasy,English,2009,8.6,153
+Blade Runner 2049,Science Fiction|Action|Drama|Dystopian,English,2017,9,154
+The Martian,Science Fiction|Adventure|Survival,English,2015,8.4,155
+Arrival,Science Fiction|Mystery,English,2016,9.2,156
+Ex Machina,Science Fiction|AI|Thriller,English,2014,8.8,157
+Gravity,Science Fiction|Thriller|Survival,English,2013,8,158
+Tenet,Science Fiction|Action|Thriller,English,2020,7.4,159
+Edge of Tomorrow,Science Fiction|Action|Adventure|Dystopian ,English,2014,8.2,160
+Minority Report,Science Fiction|Thriller|Action,English,2002,8,161
+Space Sweepers,Science Fiction|Action|Drama,Korean,2021,8.4,162
+JUNG_E,Science Fiction|AI|Adventure,Korean,2023,7,163
+The Wandering Earth,Science Fiction|Dystopian|Action,Mandarin,2019,8.2,164
+Reset,Science Fiction|Action|Thriller,Mandarin,2017,7.6,165
+Battle of Memories,Science Fiction|Fantasy|Mystery,Mandarin,2017,7,166
+Koi Mil Gaya,Science Fiction|Drama|Action|Fantasy|Romance,Hindi,2003,8,167
+Ra.One,Science Fiction|Action|AI,Hindi,2011,6.8,168
+Robot (Enthiran),Science Fiction|AI|Action,Hindi,2010,8.2,169
+Bird Box,Horror|Mystery,English,2018,8,170
+Zodiac,Horror|Thriller|Crime,English,2007,8.2,171
+Sinners,Horror|Action|Drama|Thriller,English,2025,9,172
+The Conjuring,Horror|Mystery|Thriller,English,2013,9.6,173
+Hereditary,Horror|Mystery|Drama|Tragedy,English,2018,9.2,174
+The Babadook,Horror|Drama|Mystery,English,2014,8.4,175
+It Follows,Horror|Mystery|Thriller,English,2014,8.2,150
+The Witch,Horror|Fantasy|Drama|Mystery|Thriller,English,2015,8.4,151
+Train to Busan,Horror|Action|Thriller|Tragedy,Korean,2016,9.6,152
+#Alive,Horror|Action|Drama|Thriller,Korean,2020,8.2,153
+The Call,Horror|Crime|Mystery|Science Fiction,Korean,2020,8,154
+I Saw the Devil,Thriller|Horror|Action,Korean,2010,9,155
+The Soul,Horror|Mystery|Drama|Thriller|Science Fiction,Mandarin,2021,8.4,156
+7 Guardians of the Tomb,Horror|Fantasy|Action|Thriller,Mandarin,2017,4.4,157
+Stree,Horror|Comedy,Hindi,2018,8,158
+Bhoot,Horror|Mystery|Thriller,Hindi,2003,7.8,159
+Gladiator,Action|Drama|Adventure|Epic,English,2000,9.6,160
+The Dark Knight,Action|Tragedy|Crime|Thriller|Superhero,English,2008,9.8,161
+Mad Max: Fury Road,Action|Adventure|Dystopian,English,2015,9.4,162
+John Wick,Action|Crime|Thriller,English,2014,9.2,163
+The Avengers,Action|Science Fiction|Superhero,English,2012,9,164
+Mission: Impossible - Fallout,Action|Adventure|Thriller,English,2018,9.4,165
+Furious 7,Action|Thriller,English,2015,8.4,166
+Lara Croft: Tomb Raider,Action|Adventure|Fantasy|Thriller,English,2001,7.6,167
+Birds of Prey,Action|Comedy|Crime|Superhero,English,2020,7.8,168
+The Man from Nowhere,Action|Drama|Thriller,Korean,2010,9,169
+Time to Hunt,Action|Crime|Drama|Science Fiction|Thriller,Korean,2020,8.4,170
+Operation Mekong,Action|Adventure|Crime|Drama|Thriller,Mandarin,2016,8.4,171
+The Battle at Lake Changjin,Action|Drama|History|Epic,Mandarin,2021,9,172
+War,Action|Adventure|Thriller,Hindi,2019,8.8,173
+Dhoom 3,Action|Tragedy|Crime|Thriller,Hindi,2013,8.4,174
+Baahubali: The Beginning,Action|Drama|Epic,Hindi,2015,9.2,175
+Raees,Action|Crime|Drama ,Hindi,2017,8,150
+Shershaah,Action|Tragedy|Drama|War,Hindi,2021,9.6,152
+The Grand Budapest Hotel,Comedy|Drama,English,2014,8.1,154
+The Hangover,Comedy,English,2009,7.7,156
+Superbad,Comedy,English,2007,7.6,158
+Jojo Rabbit,Comedy|War|Drama,English,2019,7.9,160
+Palm Springs,Comedy|Romance|Mystery|Fantasy,English,2020,7.4,162
+The Nice Guys,Comedy|Action|Crime|Thriller,English,2016,7.3,164
+Hera Pheri,Comedy|Action|Crime|Drama,Hindi,2000,8.2,166
+Housefull 3,Comedy,Hindi,2016,5.2,168
+Parasite,Thriller|Tragedy|Drama,Korean,2019,8.6,170
+Scandal Makers,Comedy|Drama,Korean,2008,7.3,172
+Detective Chinatown,Comedy|Action|Mystery,Mandarin,2015,6.6,174
+Crazy Stone,Comedy|Crime|Drama,Mandarin,2006,7.4,151
+The Notebook,Romance|Drama|Epic,English,2004,7.8,153
+Pride & Prejudice,Romance|Drama|Epic,English,2005,7.8,155
+La La Land,Romance|Comedy|Drama|Musical,English,2016,8,157
+Titanic,Romance|Drama|Epic|Tragedy,English,1997,7.9,159
+Before Sunrise,Romance|Comedy|Drama ,English,1995,8.1,161
+500 Days of Summer,Romance|Comedy|Drama,English,2009,7.7,163
+The Fault in Our Stars,Romance|Tragedy|Drama,English,2014,7.7,165
+Barfi!,Romance|Comedy|Drama,Hindi,2012,8.1,167
+Gehraiyaan,Romance|Drama,Hindi,2022,6.9,169
+Jab We Met,Romance|Comedy|Drama,Hindi,2007,7.9,171
+Dilwale Dulhania Le Jayenge,Romance|Drama|Comedy,Hindi,1995,8.3,173
+A Moment to Remember,Romance|Drama,Korean,2004,8.2,175
+Always,Romance|Action|Drama,Korean,2011,7.8,150
+Us and Them,Romance|Drama,Mandarin,2018,7.4,155
+Love in a Puff,Romance|Comedy|Drama,Mandarin,2010,7.1,160
+Turning Red,Animation|Adventure|Comedy|Drama|Fantasy,English,2022,7,165
+Puss in Boots: The Last Wish,Animation|Action|Adventure|Comedy|Family,English,2022,7.8,170
+The Super Mario Bros. Movie,Animation|Action|Adventure|Comedy|Epic|Fantasy|Family,English,2023,7.1,175
+Elemental,Animation|Adventure|Comedy|Romance|Fantasy,English,2023,7,150
+Toy Story,Animation|Adventure|Comedy|Fantasy|Family,English,1995,8.3,151
+Up,Animation|Adventure|Comedy|Drama|Family,English,2009,8.2,152
+Inside Out,Animation|Adventure|Comedy|Drama|Family|Fantasy,English,2015,8.1,153
+Zootopia,Animation|Action|Adventure|Comedy|Crime|Family,English,2016,8,154
+Finding Nemo,Animation|Adventure|Comedy|Family,English,2003,8.1,155
+Ratatouille,Animation|Adventure|Comedy|Family|Fantasy,English,2007,8.1,156
+The Incredibles,Animation|Superhero|Action|Adventure|Family,English,2004,8,157
+Frozen II,Animation|Musical|Adventure|Comedy|Drama|Family,English,2019,6.9,158
+Cars,Animation|Adventure|Family|Comedy,English,2006,7.1,159
+Ne Zha,Animation|Action|Adventure|Family|Fantasy|Thriller,Mandarin,2019,7.5,160
+The Shawshank Redemption,Drama|Epic,English,1994,9.3,161
+The Social Network,Drama|Epic,English,2010,8,162
+Harry Potter and the Goblet of Fire,Fantasy|Family|Adventure|Mystery,English,2005,7.7,163
+The Lord of the Rings: The Fellowship of the Ring,Fantasy|Epic|Drama|Adventure,English,2001,8.8,164
+Fantastic Beasts and Where to Find Them,Fantasy|Family|Adventure,English,2016,7.3,165
+Mickey 17,Fantasy|Comedy|Adventure|Science Fiction,English,2025,7,166
+Fight Club,Thriller|Crime|Drama,English,1999,8.8,167
+Shutter Island,Thriller|Mystery|Drama,English,2010,8.2,168
+Avengers: Endgame,Action|Science Fiction|Tragedy|Adventure|Superhero,English,2019,8.4,169
+Black Panther,Action|Science Fiction|Superhero|Adventure,English,2018,7.3,170
+Avengers: Infinity War,Action|Science Fiction|Superhero|Adventure|Tragedy,English,2018,8.5,171
+Thor: Ragnarok,Action|Science Fiction|Superhero|Fantasy,English,2017,7.9,172
+Iron Man,Action|Science Fiction|Superhero|Adventure,English,2008,7.9,173
+Spider-Man: No Way Home,Action|Science Fiction|Superhero|Fantasy|Adventure,English,2021,8.3,174
+Doctor Strange in the Multiverse of Madness,Fantasy|Horror|Science Fiction|Superhero,English,2022,7.5,175
+Spider-Man: Across the Spider-Verse,Animation|Family|Fantasy|Action|Adventure|Superhero,English,2023,8.6,151
