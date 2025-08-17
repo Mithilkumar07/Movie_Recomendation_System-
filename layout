@@ -1,0 +1,19 @@
+ ---------------------------------------------------------
+|             Movie Recommendation and Review System      |
+|---------------------------------------------------------|
+| Genre: [Dropdown]     Language: [Dropdown]              |
+| Decade: [Dropdown]    Minimum Rating: [Dropdown]        |
+|                                                          
+|                   [ Recommend Button ]                  |
+|---------------------------------------------------------|
+| Search Results:                                          |
+| [ Text Box - Recommended Movies Appear Here ]           |
+|---------------------------------------------------------|
+| Enter Review (Movie,Review):                            |
+| [ Multiline Text Box + Scroll ]                         |
+|            [ Submit Review Button ]                     |
+|---------------------------------------------------------|
+| Movie Name for Review: [ Text Entry ]                   |
+|                  [ Show Reviews Button ]                |
+| [ Text Box - Reviews for Movie Displayed Here ]         |
+ ---------------------------------------------------------
